@@ -1,0 +1,38 @@
+.Root {
+    flex-grow: 1;
+    padding: 2px;
+    background-Color: #ffff;
+}
+
+.Tooltip-default-theme {
+  cursor: pointer;
+  color: #000 !important;
+}
+
+.Tooltip-dark-theme {
+  cursor: pointer;
+  color: #fff !important;
+}
+
+.Title-default-theme {
+  flex-grow: 1;
+  color: #000 !important;
+}
+
+.Title-dark-theme {
+  flex-grow: 1;
+  color: #fff !important;
+}
+
+.Appbar-default-theme {
+  position: static !important;
+  background-color: #fff !important;
+}
+.Appbar-dark-theme {
+  position: static !important;
+  background-color: #002B36 !important;
+}
+.Paper-theme {
+  height: 100vh;
+  border: 1px solid lightgray;
+}

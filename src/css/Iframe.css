@@ -1,0 +1,12 @@
+.Iframe-default-theme {
+    background:#fff !important;
+    height: 100%; 
+    width: 100%;
+    border: 1px solid lightgray;
+}
+.Iframe-dark-theme {
+    background:#002B36 !important;
+    height: 100%;
+    width: 100%;
+    border: 1px solid lightgray;
+}
